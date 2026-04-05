@@ -127,20 +127,6 @@ We curated a custom dataset of **3 real-world suburban scenes** (Fairfax, VA, US
 
 ---
 
-## Citation
-
-If you find this work useful, please consider citing:
-
-```bibtex
-@inproceedings{seesay2026,
-  title     = {See\&Say: Vision Language Guided Safe Zone Detection for Autonomous Package Delivery Drones},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
-  year      = {2026}
-}
-```
-
----
 
 ## 🚧 Code & Dataset — Coming Soon
 
@@ -149,7 +135,3 @@ The full codebase, dataset, and all supplementary materials (including VLM promp
 Stay tuned!
 
 ---
-
-<p align="center">
-  Accepted at the <a href="https://urvis-workshop.github.io/">CVPR 2026 URVIS Workshop</a>
-</p>
