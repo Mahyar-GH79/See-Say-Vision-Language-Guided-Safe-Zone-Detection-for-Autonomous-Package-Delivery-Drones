@@ -1,8 +1,5 @@
 # See&Say: Vision–Language Guided Safe Zone Detection for Autonomous Package Delivery Drones
 
-<p align="center">
-  <img src="assets/teaser.png" alt="See&Say Overview" width="800"/>
-</p>
 
 <p align="center">
   <a href="https://urvis-workshop.github.io/">
@@ -36,7 +33,7 @@ The system operates entirely on monocular RGB input — no LiDAR or additional s
 ## How It Works
 
 <p align="center">
-  <img src="Figure1.pdf" alt="See&Say Pipeline" width="800"/>
+  <img src="assets/Figure1.jpg" alt="See&Say Pipeline" width="800"/>
 </p>
 
 See&Say processes batches of **5 consecutive RGB frames** and their corresponding monocular depth maps through a multi-stage pipeline:
