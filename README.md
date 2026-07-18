@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/CVPR%202026-URVIS%20Workshop-blue?style=flat-square" alt="CVPR 2026 URVIS Workshop"/>
   </a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange?style=flat-square" alt="Code Coming Soon"/>
-  <img src="https://img.shields.io/badge/Dataset-Coming%20Soon-orange?style=flat-square" alt="Dataset Coming Soon"/>
+  <img src="https://img.shields.io/badge/Dataset-Coming%20Soon-orange?style=flat-square" alt="Dataset Available!"/>
 </p>
 
 ---
@@ -122,12 +122,14 @@ We curated a custom dataset of **3 real-world suburban scenes** (Fairfax, VA, US
 
 **120 frames** (24 batches × 5 frames) were manually annotated by a human expert for pixel-level safety maps.
 
+In order to have access to the dataset, please email mahyar.ghazanfari@gwu.edu or mghazanf@umd.edu
 ---
 
 
-## 🚧 Code & Dataset — Coming Soon
 
-The full codebase, dataset, and all supplementary materials (including VLM prompts and hyperparameter configurations) will be publicly released with the camera-ready version of the paper.
+## 🚧 Code — Coming Soon
+
+The full codebase, and all supplementary materials (including VLM prompts and hyperparameter configurations) will be publicly released with the camera-ready version of the paper.
 
 Stay tuned!
 
