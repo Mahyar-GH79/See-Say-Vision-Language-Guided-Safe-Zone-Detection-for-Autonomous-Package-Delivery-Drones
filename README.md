@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/CVPR%202026-URVIS%20Workshop-blue?style=flat-square" alt="CVPR 2026 URVIS Workshop"/>
   </a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange?style=flat-square" alt="Code Coming Soon"/>
-  <img src="https://img.shields.io/badge/Dataset-Coming%20Soon-orange?style=flat-square" alt="Dataset Available!"/>
 </p>
 
 ---
