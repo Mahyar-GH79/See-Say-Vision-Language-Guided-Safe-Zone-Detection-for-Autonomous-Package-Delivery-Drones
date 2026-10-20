@@ -121,7 +121,8 @@ We curated a custom dataset of **3 real-world suburban scenes** (Fairfax, VA, US
 
 **120 frames** (24 batches × 5 frames) were manually annotated by a human expert for pixel-level safety maps.
 
-In order to have access to the dataset, please email mahyar.ghazanfari@gwu.edu or mghazanf@umd.edu
+Dataset is now available [here]([url](https://huggingface.co/datasets/Mahyar-79/see-and-say))!
+
 
 ---
 
@@ -129,7 +130,7 @@ In order to have access to the dataset, please email mahyar.ghazanfari@gwu.edu o
 
 ## 🚧 Code — Coming Soon
 
-The full codebase, and all supplementary materials (including VLM prompts and hyperparameter configurations) will be publicly released with the camera-ready version of the paper.
+The full codebase, and all supplementary materials (including VLM prompts and hyperparameter configurations) will be publicly available soon.
 
 Stay tuned!
 
